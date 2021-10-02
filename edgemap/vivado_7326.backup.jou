@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:35 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Oct  1 23:24:02 2021
+# Process ID: 7326
+# Current directory: /home/jian/Downloads/pagerank_suite-main/pagerank/edgemap
+# Command line: vivado -mode tcl -source syn.tcl -log ./syn.log
+# Log file: /home/jian/Downloads/pagerank_suite-main/pagerank/edgemap/./syn.log
+# Journal file: /home/jian/Downloads/pagerank_suite-main/pagerank/edgemap/vivado.jou
+#-----------------------------------------------------------
+source syn.tcl
